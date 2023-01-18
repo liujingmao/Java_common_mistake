@@ -1,0 +1,2 @@
+# Java_common_mistake
+整理出100个Java开发过程中经常出现的问题
